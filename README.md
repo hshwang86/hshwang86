@@ -5,7 +5,6 @@
 
 ## 🔭 Currently Working On
 - **MobilHi ERP**: Integrated ERP solution tailored for city bus operations, built with Python, Django, PostgreSQL, and React.
-- **Crypto Trading Bot**: Automated futures trading strategies enhanced with AI-driven prompt engineering and risk management.
 
 ## 🌱 Currently Learning
 - Advanced AI-driven trading strategies and multi-timeframe market analysis.
