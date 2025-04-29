@@ -1,17 +1,29 @@
-## Hi there 👋
+# Hi there 👋 I'm Hwang Hong Seok
 
-<!--
-**hshwang86/hshwang86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Followers](https://img.shields.io/github/followers/hshwang86?label=Follow&style=social)](https://github.com/hshwang86)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HwangHongSeok-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hshwang86)
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
+- **MobilHi ERP**: Integrated ERP solution tailored for city bus operations, built with Python, Django, PostgreSQL, and React.
+- **Crypto Trading Bot**: Automated futures trading strategies enhanced with AI-driven prompt engineering and risk management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-https://github-readme-stats.vercel.app/api?username=hshwang86&show_icons=true&theme=default&include_all_commits=true
+## 🌱 Currently Learning
+- Advanced AI-driven trading strategies and multi-timeframe market analysis.
+- Distributed systems and container orchestration with Kubernetes.
+
+## 👯 Looking to Collaborate On
+- Open-source Django packages and reusable ERP components.
+- Automated data pipelines for transportation analytics and reporting.
+
+## 💬 Ask Me About
+- ERP systems for public transportation
+- Django, Python, JavaScript, PostgreSQL
+- Algorithmic trading, risk management, prompt engineering
+- API integrations and data processing
+
+---
+
+### 📊 GitHub Stats
+
+![Hwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hshwang86&show_icons=true&theme=default&include_all_commits=true)
+
