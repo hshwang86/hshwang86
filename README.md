@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Hwang Hong Seok
 
 [![GitHub Followers](https://img.shields.io/github/followers/hshwang86?label=Follow&style=social)](https://github.com/hshwang86)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HwangHongSeok-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hshwang86)
 
 ## 🔭 Currently Working On
 - **MobilHi ERP**: Integrated ERP solution tailored for city bus operations, built with Python, Django, PostgreSQL, and React.
