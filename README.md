@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hwang%20Hong%20Seok&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20%7C%20ERP%20%7C%20Game%20%26%20VR%20%7C%20AI%20Automation&descSize=18&descAlignY=58" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hwang%20Hong%20Seok&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20%7C%20ERP%20%7C%20Game%20%26%20VR%20%7C%20AI%20Automation&descSize=18&descAlignY=58&reversal=false" width="100%" alt="header banner"/>
 
 <a href="https://github.com/hshwang86"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Hwang+Hong+Seok+%F0%9F%91%8B;Building+MobilHi+ERP+for+City+Bus+Operations;Django+%7C+Flutter+%7C+Unity+%7C+Unreal+%7C+Cocos2d-x;Algorithmic+Trading+%26+AI+Automation" alt="typing intro"/></a>
 
@@ -22,8 +22,9 @@
 ## 🎮 Indie Release — Rune Enchanter
 
 <a href="https://play.google.com/store/apps/details?id=com.byeori.runeenchanter"><img src="https://img.shields.io/badge/Google%20Play-%EB%A3%AC%20%EC%9D%B8%EC%B1%88%ED%84%B0%20(Rune%20Enchanter)-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="룬 인챈터 Google Play"/></a>
+<a href="https://apps.apple.com/kr/app/rune-enchanter/id6446860667"><img src="https://img.shields.io/badge/App%20Store-Rune%20Enchanter-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="룬 인챈터 App Store"/></a>
 
-휴직 기간 중 **1인 개발**로 기획부터 서버·클라이언트·아트 지시까지 전 과정을 혼자 진행해 출시한 판타지 로그라이크 모바일 게임 (2023.04 Google Play 출시, ⭐ 4.6).
+휴직 기간 중 **1인 개발**로 기획부터 서버·클라이언트·아트 지시까지 전 과정을 혼자 진행해 출시한 판타지 로그라이크 모바일 게임 (2023.04 출시, Google Play ⭐ 4.6 · App Store 동시 서비스).
 
 - 룬과 무기를 조합하는 인챈트 시스템 (최대 6줄 인챈트)
 - 서버 내에서 동일한 아이템이 존재할 수 없게 만드는 **'초월' 시스템**
@@ -132,6 +133,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&reversal=false" width="100%" alt="footer banner"/>
 
 </div>
