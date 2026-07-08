@@ -19,6 +19,33 @@
 - 📈 **Algorithmic Trading** — Upbit/Binance 기반 암호화폐 자동매매 봇과 마켓 스크리너. ccxt, pandas-ta, 멀티 타임프레임 분석.
 - 🎮 **Games** — 서버 권위(server-authoritative) 실시간 온라인 게임, 웹 기반 경제 시뮬레이션 게임.
 
+## 🎮 Indie Release — Rune Enchanter
+
+<a href="https://play.google.com/store/apps/details?id=com.byeori.runeenchanter"><img src="https://img.shields.io/badge/Google%20Play-%EB%A3%AC%20%EC%9D%B8%EC%B1%88%ED%84%B0%20(Rune%20Enchanter)-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="룬 인챈터 Google Play"/></a>
+
+휴직 기간 중 **1인 개발**로 기획부터 서버·클라이언트·아트 지시까지 전 과정을 혼자 진행해 출시한 판타지 로그라이크 모바일 게임 (2023.04 Google Play 출시, ⭐ 4.6).
+
+- 룬과 무기를 조합하는 인챈트 시스템 (최대 6줄 인챈트)
+- 서버 내에서 동일한 아이템이 존재할 수 없게 만드는 **'초월' 시스템**
+- 개발자가 실시간 스트리밍으로 직접 진행하는 PVP 이벤트, 디스코드 커뮤니티 운영
+- 출시 후 지속 업데이트 운영 중 (최근 업데이트 2025.11)
+
+## 💼 Career (Before Current Company)
+
+- **i.Des · 인디 개발팀** `2009.06 – 2011.01`
+  - iPhone 앱/게임 기획·개발 및 앱 랭킹 사이트 운영. Cocos2D 게임 'iYBGame', 'Fly Missile' 런칭
+  - 'V라인 캠' 대한민국 App Store 무료 앱 20위권 달성, 캡스톤 디자인 대회 최우수상 수상
+- **㈜니르바나 엔터테인먼트 · 개발팀 대리** `2011.02 – 2012.09`
+  - 아케이드 게임 '히든에 아포카'(DirectX) 매장 출시, Unity3D 리듬게임 'DJ-BOX' 시리즈 T-Store 출시
+  - LGU+ Diet-U '헬C노트' 개발 — **2011 앱 어워드 코리아 건강/헬스케어 부문 대상 수상**
+- **㈜래프게임즈 · 클라이언트 파트장** `2012.12 – 2013.06`
+  - 모바일 MORPG '소울메이트' 클라이언트 개발 (Unity3D · Android)
+- **㈜브로드웨이엔터테인먼트그룹인터렉티브 · 실장/개발이사** `2013.08 – 2019.02`
+  - 모바일·VR·AR 30여 개 프로젝트 개발 총괄 — 게임/앱 서버·클라이언트, VR 콘텐츠 전반
+  - VR: 'VR-Archer'(G-Star 전시), VR 방탈출 '암화'(중국 Hyperreal·Smilegate STOVE 출시), 'Sea Explorer'(중국 출시), 'Flight VR'(일본 Unity Bootcamp 사례 소개), 'VR-Rider/Shooter/Glider' 등
+  - 게임/앱: VR·PC 온라인 게임 '서바이벌로드'(**Steam 출시**), PSVR 아쿠아너츠 리마스터 'Evian'(PS4), 'V-League AR'(한국배구협회 공식 앱), 골프 게임 '필드맨', 'SINCE 1618' 등 Google Play/App Store 다수 출시
+  - 강의: 부산정보산업진흥원 VR 콘텐츠 제작 실무자 교육(40시간), 영산대 게임미디어학과 특강(24시간)
+
 ## 🛠️ Tech Stack
 
 <div align="center">
