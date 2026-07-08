@@ -125,7 +125,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hshwang86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hshwang86&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="165" alt="top languages"/>
+<img src="assets/top-langs.svg" height="165" alt="top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=hshwang86&theme=tokyonight&hide_border=true&background=1a1b27" height="180" alt="commit streak"/>
 
