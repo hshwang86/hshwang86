@@ -87,6 +87,8 @@
 <img src="https://img.shields.io/badge/Cocos2d--x-55C2E1?style=for-the-badge&logo=cocos&logoColor=white" alt="Cocos2d-x"/>
 <img src="https://img.shields.io/badge/Cocos2d-1B98D5?style=for-the-badge&logo=cocos&logoColor=white" alt="Cocos2d"/>
 <img src="https://img.shields.io/badge/VR%20Development-7B2BF9?style=for-the-badge&logo=oculus&logoColor=white" alt="VR Development"/>
+<img src="https://img.shields.io/badge/DirectX-107C10?style=for-the-badge&logoColor=white" alt="DirectX"/>
+<img src="https://img.shields.io/badge/PhysX-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="PhysX"/>
 
 ### Data · Trading · AI
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
