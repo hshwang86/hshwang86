@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#36BCF7">
+        <animate attributeName="stop-color" values="#36BCF7;#7B2BF9;#F72585;#36BCF7" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#7B2BF9">
+        <animate attributeName="stop-color" values="#7B2BF9;#F72585;#36BCF7;#7B2BF9" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#F72585">
+        <animate attributeName="stop-color" values="#F72585;#36BCF7;#7B2BF9;#F72585" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <clipPath id="clipf"><rect width="1200" height="120"/></clipPath>
+  </defs>
+  <g clip-path="url(#clipf)">
+    <path fill="url(#grad)" opacity="0.45" d="M0,55 Q150,25 300,55 Q450,85 600,55 Q750,25 900,55 Q1050,85 1200,55 Q1350,25 1500,55 Q1650,85 1800,55 Q1950,25 2100,55 Q2250,85 2400,55 V120 H0 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <path fill="url(#grad)" d="M0,70 Q150,40 300,70 Q450,100 600,70 Q750,40 900,70 Q1050,100 1200,70 Q1350,40 1500,70 Q1650,100 1800,70 Q1950,40 2100,70 Q2250,100 2400,70 V120 H0 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="11s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>

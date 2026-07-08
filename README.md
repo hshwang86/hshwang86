@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hwang%20Hong%20Seok&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20%7C%20ERP%20%7C%20Game%20%26%20VR%20%7C%20AI%20Automation&descSize=18&descAlignY=58&reversal=false" width="100%" alt="header banner"/>
+<img src="assets/header.svg" width="100%" alt="header banner"/>
 
 <a href="https://github.com/hshwang86"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Hwang+Hong+Seok+%F0%9F%91%8B;Building+MobilHi+ERP+for+City+Bus+Operations;Django+%7C+Flutter+%7C+Unity+%7C+Unreal+%7C+Cocos2d-x;Algorithmic+Trading+%26+AI+Automation" alt="typing intro"/></a>
 
@@ -124,17 +124,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hshwang86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hshwang86&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="165" alt="top languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hshwang86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hshwang86&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="165" alt="top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=hshwang86&theme=tokyonight&hide_border=true&background=1a1b27" height="180" alt="commit streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=hshwang86&theme=tokyonight&no-frame=true&column=7&margin-w=8" width="100%" alt="GitHub trophies"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&reversal=false" width="100%" alt="footer banner"/>
+<img src="assets/footer.svg" width="100%" alt="footer banner"/>
 
 </div>
