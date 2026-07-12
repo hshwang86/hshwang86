@@ -39,6 +39,7 @@
   - 현장 모바일 앱 개발 — 운전자 음주측정 컴플라이언스 시스템(웹+앱), 운수사 ERP 연동 앱 (Flutter · Firebase FCM)
   - 업무 자동화 — DTG(디지털 운행기록계) 데이터 분석, 문서 자동 생성
   - AI 에이전트 도입 — Claude/OpenAI 기반 ERP 고객지원(CS) 자동화, 비즈니스 영상 제작 파이프라인
+  - 강의: 건국대 글로컬 LINC VR/AR 콘텐츠 제작 교육(60시간)
 - **㈜브로드웨이엔터테인먼트그룹인터렉티브 · 실장/개발이사** `2013.08 – 2019.02`
   - 모바일·VR·AR 30여 개 프로젝트 개발 총괄 — 게임/앱 서버·클라이언트, VR 콘텐츠 전반
   - VR: 'VR-Archer'(G-Star 전시), VR 방탈출 '암화'(중국 Hyperreal·Smilegate STOVE 출시), 'Sea Explorer'(중국 출시), 'Flight VR'(일본 Unity Bootcamp 사례 소개), 'VR-Rider/Shooter/Glider' 등
